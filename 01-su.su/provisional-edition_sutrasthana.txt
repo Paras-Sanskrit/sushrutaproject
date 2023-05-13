@@ -934,7 +934,7 @@
 
                     <head>[Adhyāya 14 draft edition based initially on K]</head>
 
-                    <l xml:id="SS.1.14.1">athāta śoṇitavarṇṇanīyam adhyāyam vyākhyāsyāmaḥ
+                    <l xml:id="SS.1.14.1">athātaḥ śoṇitavarṇṇanīyam adhyāyam vyākhyāsyāmaḥ
                         ||</l>
 
                     <l xml:id="SS.1.14.2"/>
