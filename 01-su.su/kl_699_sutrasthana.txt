@@ -1941,7 +1941,7 @@ SS.1.13.23gh
                         cādhogāminyaścatasrastiryaggāḥ kṛtsnaṃ śarīramaharahastarpayati
                                 <unclear>jī<add place="below">pa</add>vati</unclear>
                         yāpayati vardhayati cādṛṣṭahetuke<cb/>na karmaṇā | tasya
-                        śarīramanusaratonumānād gatirupalakṣayitvā kṣayavṛddhīhetukī
+                        śarīramanusaratonumānād gatirupalakṣayitavyā kṣayavṛddhihetukī
                             ||<add place="margin">guṇa</add><lb n="5"/>
                         <!--I couldn't find where to put last addition. --> tasmiṃ
                         sarvaśarīrāvayavadoṣadhātumalāśayānusāriṇi rase jijñāsā | kimayaṃ
